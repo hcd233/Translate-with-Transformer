@@ -1,0 +1,8 @@
+torch==1.13.1+cu117
+streamlit
+streamlit_modal
+transformers
+accelerate
+safetensors
+pandas
+sentencepiece
